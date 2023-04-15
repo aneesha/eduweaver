@@ -2,7 +2,7 @@
 
 EduWeaver uses ChatGPT API to make a LiaScript course (more formats coming soon). EduWeaver can be considered an AutoCourse maker. EduWeaver uses LangChain.
 
-EduWeaver runs as a Google Colab Notebook. Click here -> [![Open In Colab]([link to image on GH](https://colab.research.google.com/assets/colab-badge.svg))](link to your URL) to open in Google Colab. You will need an OpenAI API key. Additional instructions are included in the Google Colab Notebook. 
+EduWeaver runs as a Google Colab Notebook. Click here -> [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg](https://github.com/aneesha/eduweaver/blob/main/EduWeaver_AutoCourse.ipynb))](link to your URL) to open in Google Colab. You will need an OpenAI API key. Additional instructions are included in the Google Colab Notebook. 
 
 - Specify a topic and a few other parameters
 - Creates a list of sub sections (or chapters)
@@ -21,8 +21,7 @@ EduWeaver runs as a Google Colab Notebook. Click here -> [![Open In Colab]([link
 
 **Example Courses:**
 
-- [Meteorology Course]()
-- [Javascript Course]()
-- [Non Negative Matrix Factorization Course]()
-- [Learning Analytics]()
-
+- [Meteorology Course](https://liascript.github.io/course/?https://raw.githubusercontent.com/aneesha/eduweaver/main/example_courses/Meteorology_Course.md)
+- [Learning Analytics](https://liascript.github.io/course/?https://raw.githubusercontent.com/aneesha/eduweaver/main/example_courses/LearningAnalytics_Course.md)
+- [Javascript Course](https://liascript.github.io/course/?https://raw.githubusercontent.com/aneesha/eduweaver/main/example_courses/Javascript_Course.md)
+- [Non Negative Matrix Factorization Course](https://liascript.github.io/course/?https://raw.githubusercontent.com/aneesha/eduweaver/main/example_courses/NMF_Course.md)
