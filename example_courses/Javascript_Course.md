@@ -19,6 +19,7 @@ comment:  Eduweaver generates course content using chatGPT and outputs in Liascr
  
 
 In this course the following content will be covered: 
+
 - Introduction to Javascript 
  This section will provide an overview of what Javascript is, its uses, and its importance in web development. 
 
@@ -56,18 +57,18 @@ In conclusion, Javascript is a powerful and widely used programming language in 
 
 What is Javascript?
  
-- [(X)] A programming language used to create dynamic and interactive websites 
-- [( )] A database management system 
-- [( )] A software that helps in designing web pages 
-- [( )] A web server 
+  [(X)] A programming language used to create dynamic and interactive websites 
+  [( )] A database management system 
+  [( )] A software that helps in designing web pages 
+  [( )] A web server 
 
 What are the uses of Javascript?
  
-- [[X]] Creating interactive web pages 
-- [[ ]] Building mobile applications 
-- [[ ]] Developing desktop applications 
-- [[ ]] Writing server-side scripts 
-- [[X]] Creating video games 
+  [[X]] Creating interactive web pages 
+  [[ ]] Building mobile applications 
+  [[ ]] Developing desktop applications 
+  [[ ]] Writing server-side scripts 
+  [[X]] Creating video games 
 
 What is the importance of Javascript in web development?
  
@@ -89,7 +90,6 @@ What is the latest version of Javascript?
 - [( )] ES5 
 - [(X)] ES6 
 - [( )] ES7 
-
 
 ## Variables and Data Types
 This section will explain the different types of variables in Javascript, their uses, and how to declare them. It will also cover the various data types in the language.

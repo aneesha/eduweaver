@@ -19,6 +19,7 @@ comment:  Eduweaver generates course content using chatGPT and outputs in Liascr
  
 
 In this course the following content will be covered: 
+
 - Introduction to Non Negative Matrix Factorization (NMF) 
  This section will provide an overview of NMF, its applications, and its advantages over other matrix factorization techniques. 
 
