@@ -63,7 +63,7 @@ What is Javascript?
     [( )] A web server 
 
 What are the uses of Javascript?
- 
+
     [[X]] Creating interactive web pages 
     [[ ]] Building mobile applications 
     [[ ]] Developing desktop applications 
@@ -71,21 +71,21 @@ What are the uses of Javascript?
     [[X]] Creating video games 
 
 What is the importance of Javascript in web development?
- 
+
     [( )] It is not important 
     [(X)] It is used to add interactivity and dynamic behavior to web pages 
     [( )] It is used to create server-side scripts 
     [( )] It is used to build mobile applications 
 
 What is the difference between Javascript and Java?
- 
+
     [( )] They are the same thing 
     [(X)] Javascript is a scripting language used for web development, while Java is a programming language used for developing applications 
     [( )] Java is a scripting language used for web development, while Javascript is a programming language used for developing applications 
     [( )] Javascript is used for front-end development, while Java is used for back-end development 
 
 What is the latest version of Javascript?
- 
+
     [( )] ES3 
     [( )] ES5 
     [(X)] ES6 
@@ -159,31 +159,31 @@ In conclusion, understanding how to declare variables and the various data types
 ### Quiz Questions 
 
 What is the difference between let and var in JavaScript?
- 
+
     [(X)] let is block-scoped, while var is function-scoped 
     [( )] var is block-scoped, while let is function-scoped 
     [( )] There is no difference between let and var in JavaScript 
 
 What is the output of the following code snippet: console.log(typeof 'hello' === 'string')?
- 
+
     [(X)] true 
     [( )] false 
     [( )] undefined 
 
 What is the data type of null in JavaScript?
- 
+
     [( )] Null 
     [(X)] Object 
     [( )] Undefined 
 
 What is the output of the following code snippet: console.log('5' + 5)?
- 
+
     [(X)] 55 
     [( )] 10 
     [( )] NaN 
 
 Which of the following is not a primitive data type in JavaScript?
- 
+
     [( )] Number 
     [( )] String 
     [( )] Boolean 
@@ -313,35 +313,35 @@ In conclusion, functions and control structures are essential concepts in JavaSc
 ### Quiz Questions 
 
 What is a function in JavaScript?
- 
+
     [(X)] A set of instructions that performs a specific task 
     [( )] A type of data structure 
     [( )] A way to declare variables 
     [( )] A method for organizing code 
 
 What is the syntax for declaring a function in JavaScript?
- 
+
     [(X)] function myFunction() 
     [( )] myFunction() 
     [( )] declare myFunction() 
     [( )] function = myFunction() 
 
 What does the return statement do in a function?
- 
+
     [( )] Stops the execution of the function 
     [(X)] Returns a value from the function 
     [( )] Declares a variable 
     [( )] Calls another function 
 
 What is the purpose of a loop in programming?
- 
+
     [(X)] To execute a block of code multiple times 
     [( )] To stop the execution of a program 
     [( )] To declare variables 
     [( )] To organize code 
 
 What is the difference between a for loop and a while loop?
- 
+
     [(X)] A for loop is used for a specific number of iterations, while a while loop is used for an unknown number of iterations 
     [( )] A for loop is used for an unknown number of iterations, while a while loop is used for a specific number of iterations 
     [( )] A for loop is used for executing a block of code once, while a while loop is used for executing a block of code multiple times 
@@ -400,35 +400,35 @@ In conclusion, Javascript provides a powerful toolset for manipulating HTML and 
 ### Quiz Questions 
 
 What is the DOM?
- 
+
     [( )] A way to manipulate CSS using Javascript 
     [(X)] The Document Object Model, a way to access and manipulate the HTML and CSS of a webpage 
     [( )] A programming language 
     [( )] A way to create animations in Javascript 
 
 What is the syntax for selecting an element by its ID in Javascript?
- 
+
     [( )] document.getElementByTag('id') 
     [(X)] document.getElementById('id') 
     [( )] document.getElement('id') 
     [( )] document.getElementByName('id') 
 
 What is an event in Javascript?
- 
+
     [( )] A method of selecting an element in the DOM 
     [(X)] An action that occurs as a result of user interaction with a webpage 
     [( )] A type of animation in Javascript 
     [( )] A way to modify CSS in Javascript 
 
 What is the difference between innerHTML and textContent?
- 
+
     [[ ]] innerHTML returns the text content of an element, while textContent returns the HTML content 
     [[ ]] innerHTML is faster than textContent 
     [[X]] innerHTML returns the HTML content of an element, while textContent returns only the text content 
     [[ ]] textContent is deprecated and should not be used 
 
 What is an example of an animation that can be created using Javascript?
- 
+
     [( )] A blinking text 
     [(X)] A rotating image 
     [( )] A changing background color 
@@ -491,35 +491,35 @@ In conclusion, debugging and troubleshooting are critical skills for any Javascr
 ### Quiz Questions 
 
 What is the browser console used for?
- 
+
     [( )] To display images and videos on the webpage 
     [( )] To interact with the Document Object Model (DOM) 
     [(X)] To debug and troubleshoot errors in JavaScript 
     [( )] To store data on the client-side 
 
 What is a common cause of syntax errors in JavaScript?
- 
+
     [(X)] Forgetting to declare variables with the var keyword 
     [( )] Using console.log() statements 
     [( )] Including too many comments in the code 
     [( )] Using jQuery to manipulate the DOM 
 
 What is a good way to start debugging a JavaScript error?
- 
+
     [( )] Trying to reproduce the error in different browsers 
     [( )] Reading through the entire codebase 
     [(X)] Checking the browser console for error messages 
     [( )] Asking a colleague for help 
 
 What is a possible cause of a reference error in JavaScript?
- 
+
     [(X)] Trying to access a variable that hasn't been declared 
     [( )] Using the wrong data type for a variable 
     [( )] Forgetting to use the semicolon at the end of a line 
     [( )] Using a reserved keyword as a variable name 
 
 Which of the following is a tip for troubleshooting issues in larger codebases?
- 
+
     [( )] Trying to fix everything at once 
     [( )] Refactoring the entire codebase 
     [(X)] Using version control to track changes 

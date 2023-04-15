@@ -52,31 +52,31 @@ In the next section, we will discuss the mathematical formulation of NMF and how
 ### Quiz Questions 
 
 What does NMF stand for?
- 
+
     [( )] Nonlinear Matrix Factorization 
     [(X)] Non Negative Matrix Factorization 
     [( )] Negative Matrix Factorization 
 
 What is the advantage of NMF over other matrix factorization techniques?
- 
+
     [( )] It can handle negative values in the input matrix 
     [(X)] It can provide parts-based representations of the data 
     [( )] It can handle non-linear relationships in the data 
 
 What is the main application of NMF?
- 
+
     [( )] Image classification 
     [(X)] Topic modeling 
     [( )] Text summarization 
 
 What is the objective of NMF?
- 
+
     [( )] To find the inverse matrix of the input matrix 
     [(X)] To factorize the input matrix into two non-negative matrices 
     [( )] To find the eigenvalues of the input matrix 
 
 What is the sparsity constraint in NMF?
- 
+
     [( )] The requirement that the input matrix has many zero entries 
     [(X)] The requirement that the factor matrices have many zero entries 
     [( )] The requirement that the factor matrices have many non-zero entries 
@@ -103,35 +103,35 @@ In summary, NMF is a powerful tool that can decompose a non-negative matrix into
 ### Quiz Questions 
 
 What is the mathematical foundation of NMF?
- 
+
     [(X)] Linear Algebra 
     [( )] Discrete Mathematics 
     [( )] Number Theory 
     [( )] Calculus 
 
 What are some matrix operations used in NMF?
- 
+
     [[X]] Transpose 
     [[ ]] Inverse 
     [[ ]] Determinant 
     [[X]] Eigenvalues 
 
 What is the objective function used in optimization for NMF?
- 
+
     [(X)] Frobenius Norm 
     [( )] L1 Norm 
     [( )] L2 Norm 
     [( )] Infinity Norm 
 
 Which algorithm is used to solve NMF optimization problems using a multiplicative update rule?
- 
+
     [(X)] Lee and Seung Algorithm 
     [( )] Alternating Least Squares 
     [( )] Expectation Maximization 
     [( )] Conjugate Gradient 
 
 What is the main difference between the multiplicative update rule and the alternating least squares algorithm?
- 
+
     [(X)] The update rule only updates one matrix at a time, while ALS updates both matrices simultaneously 
     [( )] The update rule uses a gradient descent method, while ALS uses a random sampling method 
     [( )] The update rule converges faster, while ALS is more accurate 
@@ -159,35 +159,35 @@ NMF has proven to be a versatile and powerful tool in data analysis, with applic
 ### Quiz Questions 
 
 What are some practical applications of NMF in data analysis?
- 
+
     [[X]] Image processing 
     [[X]] Text mining 
     [[X]] Speech recognition 
     [[ ]] Weather forecasting 
 
 What is the purpose of using NMF in image processing?
- 
+
     [(X)] To reduce the dimensionality of the image data 
     [( )] To increase the resolution of the image 
     [( )] To add noise to the image 
     [( )] To remove colors from the image 
 
 What is the difference between NMF and PCA?
- 
+
     [( )] NMF is a linear method while PCA is a non-linear method 
     [(X)] NMF always produces non-negative factors while PCA can produce negative factors 
     [( )] NMF is only used for text mining while PCA is only used for image processing 
     [( )] There is no difference between NMF and PCA 
 
 What is the goal of using NMF in text mining?
- 
+
     [(X)] To identify the most important words in a document 
     [( )] To remove all the stop words from a document 
     [( )] To translate the text into another language 
     [( )] To convert the text into a different format 
 
 What is the purpose of using NMF in audio signal processing?
- 
+
     [(X)] To separate a mixed audio signal into its individual sources 
     [( )] To add echo and reverb to the audio signal 
     [( )] To increase the volume of the audio signal 
@@ -263,28 +263,28 @@ In this section, we provided a hands-on experience with implementing NMF in Pyth
 ### Quiz Questions 
 
 In which library can we find the NMF implementation in Python?
- 
+
     [( )] scipy 
     [( )] numpy 
     [(X)] scikit-learn 
     [( )] pandas 
 
 What does the fit_transform() method of the NMF class do?
- 
+
     [( )] Fits the model and returns the reduced dimensionality matrix 
     [( )] Fits the model and returns the original input matrix 
     [(X)] Fits the model and returns the factorized matrices 
     [( )] Fits the model and returns the singular values 
 
 What is the objective of the NMF algorithm?
- 
+
     [(X)] To factorize a matrix into two lower rank matrices 
     [( )] To compute the eigenvalues of a matrix 
     [( )] To compute the singular values of a matrix 
     [( )] To solve a system of linear equations 
 
 What is the difference between NMF and PCA?
- 
+
     [[X]] NMF can handle negative values, while PCA cannot 
     [[ ]] PCA can handle missing values, while NMF cannot 
     [[X]] NMF always produces non-negative factors, while PCA does not guarantee non-negativity 
@@ -292,7 +292,7 @@ What is the difference between NMF and PCA?
     [[ ]] NMF always produces orthogonal factors, while PCA does not guarantee orthogonality 
 
 What is the role of the random_state parameter in the NMF class?
- 
+
     [( )] It specifies the number of iterations for the algorithm 
     [( )] It specifies the number of factors to be computed 
     [(X)] It sets the seed for the random number generator used by the algorithm 
@@ -338,30 +338,30 @@ Thank you for taking the Non-Negative Matrix Factorization module!
 ### Quiz Questions 
 
 What are some possible future directions for research on NMF?
- 
+
     [[X]] Developing new NMF algorithms 
     [[X]] Applying NMF in medical diagnosis 
     [[ ]] NMF for predicting stock prices 
     [[ ]] NMF for predicting the weather 
 
 What is the benefit of using NMF in data analysis?
- 
+
     [(X)] It can help identify underlying patterns in data 
     [( )] It can automatically clean and preprocess data 
 
 What is a common application of NMF in image processing?
- 
+
     [(X)] Image segmentation 
     [( )] Enhancing image resolution 
 
 What is the sparsity constraint in NMF?
- 
+
     [( )] The requirement that each element in the factorization be non-negative 
     [( )] The requirement that the factor matrices have a low rank 
     [(X)] The requirement that the factor matrices have a large number of zero entries 
 
 What is the difference between NMF and PCA?
- 
+
     [[ ]] NMF is a type of unsupervised learning, while PCA is a type of supervised learning 
     [[X]] NMF can handle non-negative data, while PCA can handle any type of data 
     [[ ]] NMF is faster than PCA for large datasets 
