@@ -4,7 +4,7 @@ EduWeaver uses ChatGPT API to make a LiaScript course (more formats coming soon)
 
 EduWeaver runs as a Google Colab Notebook. Click here -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aneesha/eduweaver/blob/main/EduWeaver_AutoCourse.ipynb) to open in Google Colab. You will need an OpenAI API key. Additional instructions are included in the Google Colab Notebook. 
 
-- Specify a topic and a few other parameters
+- Specify a topic and a few other parameters (including sub sections that must be included)
 - Creates a list of sub sections (or chapters)
 - Generates the content
 - Generates appropriate activities eg MCQ's
@@ -21,6 +21,7 @@ EduWeaver runs as a Google Colab Notebook. Click here -> [![Open In Colab](https
 
 **Example Courses:**
 
+- [Pros and Cons of Using ChatGPT](https://liascript.github.io/course/?https://raw.githubusercontent.com/aneesha/eduweaver/main/example_courses/ProConsChatGPT_Course.md)
 - [Meteorology Course](https://liascript.github.io/course/?https://raw.githubusercontent.com/aneesha/eduweaver/main/example_courses/Meteorology_Course.md)
 - [Learning Analytics](https://liascript.github.io/course/?https://raw.githubusercontent.com/aneesha/eduweaver/main/example_courses/LearningAnalytics_Course.md)
 - [Javascript Course](https://liascript.github.io/course/?https://raw.githubusercontent.com/aneesha/eduweaver/main/example_courses/Javascript_Course.md)
