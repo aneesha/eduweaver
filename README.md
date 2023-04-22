@@ -26,5 +26,5 @@ EduWeaver runs as a Google Colab Notebook. Click here -> [![Open In Colab](https
 - [Learning Analytics](https://liascript.github.io/course/?https://raw.githubusercontent.com/aneesha/eduweaver/main/example_courses/LearningAnalytics_Course.md)
 - [Javascript Course](https://liascript.github.io/course/?https://raw.githubusercontent.com/aneesha/eduweaver/main/example_courses/Javascript_Course.md)
 - [Non Negative Matrix Factorization Course](https://liascript.github.io/course/?https://raw.githubusercontent.com/aneesha/eduweaver/main/example_courses/NMF_Course.md)
-
-
+- [Writing and Evaluating Lesson Plans](https://liascript.github.io/course/?https://raw.githubusercontent.com/aneesha/eduweaver/main/example_courses/LessonPlans_Course.md)
+- [Introduction to Maths for Deep Learning with NumPy](https://liascript.github.io/course/?https://raw.githubusercontent.com/aneesha/eduweaver/main/example_courses/MathsDL_Course.md)
